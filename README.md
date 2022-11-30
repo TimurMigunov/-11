@@ -13,8 +13,8 @@
 Цель: разработать таймер в Unity 2D
 
 1.	Создание ассетов 
-________![1](https://user-images.githubusercontent.com/119228138/204778903-85ee6510-eaf6-4b44-bf40-a887184f507e.png)
 
+________![1](https://user-images.githubusercontent.com/119228138/204778903-85ee6510-eaf6-4b44-bf40-a887184f507e.png)
 
 ________Рис. 11.1. Игровые ассеты 
 
